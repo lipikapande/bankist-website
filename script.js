@@ -84,6 +84,8 @@ const handleHover = function (e, opacity) {
 nav.addEventListener('mouseover', handleHover.bind(0.5));
 
 nav.addEventListener('mouseout', handleHover.bind(1));
+
+window.addEventListener('scroll', function (e) {});
 //creating and inserting elements
 
 // const message = document.createElement('div');
