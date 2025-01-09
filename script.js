@@ -230,6 +230,8 @@ dotContainer.addEventListener('click', function (e) {
   }
 });
 
+//to display exit message
+
 //creating and inserting elements
 
 // const message = document.createElement('div');
